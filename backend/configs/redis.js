@@ -2,7 +2,7 @@ const redis = require("redis");
 require("dotenv").config();
 
 const redisClient = redis.createClient({
-    url: `redis://${process.env.REDIS_USERNAME}:${process.env.REDIS_PASSWORD}@redis-12073.c305.ap-south-1-1.ec2.cloud.redislabs.com:12073`
+    url: `redis://${process.env.REDIS_USERNAME}:${process.env.REDIS_PASSWORD}@redis-10397.c301.ap-south-1-1.ec2.cloud.redislabs.com:10397`
 });
 
 
