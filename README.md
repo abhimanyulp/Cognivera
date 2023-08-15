@@ -4,8 +4,8 @@
 Interactive Fulll Stack clone of slido.com with Group Chatting, Quizzes and Word Cloud like features.
 
 ## Deployed Links
-[https://cognivera.netlify.app](https://cognivera.netlify.app/)  **(Netlify)** \
-[https://slidoapp.onrender.com](https://slidoapp.onrender.com/) **(Render)** 
+[https://cognivera-app.netlify.app/](https://cognivera-app.netlify.app/)  **(Netlify)** \
+[https://cognivera.onrender.com](https://cognivera.onrender.com) **(Render)** 
 
 ## API Reference
 
